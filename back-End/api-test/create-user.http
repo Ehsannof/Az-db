@@ -1,0 +1,11 @@
+POST http://localhost:8080/signup
+content-type: application/json
+
+{
+    "email": "loqeb@mailinator.com",
+    "password": "123",
+    "Name": "Admin",
+    "PhoneNumber": "123456789101",
+    "Address": "Test",
+    "birthYear": 1990
+}

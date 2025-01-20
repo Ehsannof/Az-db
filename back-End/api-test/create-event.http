@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbGwiOiIxMjN0ZXN0MTIzMTJAdGVzdC5jb20iLCJleHAiOjE3MzczNDQ2ODAsInVzZXJJRCI6OH0.z-QjN-Hig9U-3UQkJMZceuEOugTavHV6sbJCoKU7D2o
+
+{
+    "name": "11",
+    "description": "60%arabica, 50%Robosta",
+    "Price": 150,
+    "dateTime": "2025-01-01T15:30:00.000Z" 
+}

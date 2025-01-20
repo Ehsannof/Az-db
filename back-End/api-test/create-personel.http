@@ -1,0 +1,10 @@
+POST http://localhost:8080/personel
+content-type: application/json
+authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbGwiOiJ0ZXN0MTIzMTJAdGVzdC5jb20iLCJleHAiOjE3MzczMzk1ODUsInVzZXJJRCI6MX0.PpgxdsWcnVMf4pa8Eu6RE49rxuYx1YCCq_SJLvPbnpk
+
+{
+    "email": "javad@test.com",
+    "code": 3611624063,
+    "Description": "COOK",
+    "birthYear": 2000
+}

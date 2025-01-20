@@ -1,0 +1,2 @@
+DELETE  http://localhost:8080/personel/1
+authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbGwiOiJ0ZXN0MTIzMTJAdGVzdC5jb20iLCJleHAiOjE3MzczMjg5MzEsInVzZXJJRCI6MX0.tREMuOdDFrJMIO1oRQhkdmlDaHW7U-x_KkXyw8Kqc9Q
